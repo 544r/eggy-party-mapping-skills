@@ -17,6 +17,7 @@
 
 **核心教程：**
 - `./core/eggy-party-guide.md` — 手把手教学指南和学习路径
+- `./core/eggy-party-beginner-tutorial.md` — 入门教程（从零开始做第一个地图）
 - `./core/eggy-party-quickref.md` — 常用操作速查
 - `./core/eggy-party-editor-intro.md` — 编辑器入门、菜单入口
 
