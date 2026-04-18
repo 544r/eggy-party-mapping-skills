@@ -16,8 +16,8 @@
 所有蛋仔派对相关知识保存在：`~/.claude/skills/蛋仔派对地图制作.skills/`（相对于skill自身路径）
 
 **核心教程：**
+- `./core/eggy-party-complete-guide.md` — 完整教程（线性引导+模块深化，从零到发布）
 - `./core/eggy-party-guide.md` — 手把手教学指南和学习路径
-- `./core/eggy-party-beginner-tutorial.md` — 入门教程（从零开始做第一个地图）
 - `./core/eggy-party-quickref.md` — 常用操作速查
 - `./core/eggy-party-editor-intro.md` — 编辑器入门、菜单入口
 
