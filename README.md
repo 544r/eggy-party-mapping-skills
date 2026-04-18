@@ -50,11 +50,6 @@ cp -r 蛋仔派对地图制作.skills ~/.claude/skills/
 
 蛋仔派对、蛋仔工坊、做地图、地图制作、地图编辑、Eggy Party、eggy、派对地图、以及任何与蛋仔派对地图编辑器相关的问题。
 
-## 数据来源
-
-内容基于蛋仔派对官方工坊手册（移动端）：
-https://u5-creator.s3.game.163.com/manual/mobile/
-
 ## 开源协议
 
 MIT License - 详见 [LICENSE](LICENSE)
